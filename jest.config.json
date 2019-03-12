@@ -1,0 +1,5 @@
+{
+	"moduleFileExtensions": ["js"],
+	"moduleDirectories": ["node_modules"],
+	"testPathIgnorePatterns": ["/node_modules/"]
+}
