@@ -1,4 +1,4 @@
-const isParentsisValid = require('../src/third.js');
+const isParentsisValid = require('../tasks/third.js');
 
 describe('Третье задание', () => {
 	it('Не валидно для строк длиной 1 символ', () => {

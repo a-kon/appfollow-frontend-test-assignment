@@ -1,4 +1,4 @@
-const findOdd = require('../src/first.js');
+const findOdd = require('../tasks/first.js');
 
 describe('Первое задание', () => {
     it('Возвращает правильное значение', () => {

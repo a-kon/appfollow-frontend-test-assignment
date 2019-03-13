@@ -1,4 +1,4 @@
-const isPangram = require('../src/second.js');
+const isPangram = require('../tasks/second.js');
 
 describe('Второе задание', () => {
 	it('Не валидно для пустых строк', () => {

@@ -8,6 +8,7 @@
 // "("               =>  false
 // "(())((()())())"  =>  true
 
+// Нельзя переименовывать функцию
 function isParentsisValid(string) {
     // Ваш код
 
